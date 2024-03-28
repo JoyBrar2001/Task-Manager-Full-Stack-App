@@ -19,7 +19,7 @@ app.use(errorHandlerMiddleware);
 // app.post('/api/v1/tasks')        - create all the tasks
 // app.get('/api/v1/tasks/:id')     - create single task
 // app.patch('/api/v1/tasks/:id')   - update task
-// app.delete('/api/v1/tasks/:id')   - delete task
+// app.delete('/api/v1/tasks/:id')  - delete task
 
 const start = async () => {
   try {
